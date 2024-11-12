@@ -20,7 +20,7 @@ public class Main {
         NucleotideoRandomGenerator generator = new RandomNucleotideGenerator();
         String sequence = generator.generate(sequenceSize);
 
-        String outputFileName = "C:\\Users\\pedro\\Desktop\\Fiap\\DDD - Java\\Checkpoint2 - Nucleotideo Generate\\output\\outputCP2.txt";
+        String outputFileName = "Checkpoint2 - Nucleotideo Generate\\output\\outputCP2.txt";
 
         File outputFile = new File(outputFileName);
         outputFile.getParentFile().mkdirs();
