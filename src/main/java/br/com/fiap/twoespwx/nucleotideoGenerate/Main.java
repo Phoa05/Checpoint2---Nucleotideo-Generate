@@ -1,3 +1,12 @@
+/*
+ * Grupo: Nexos
+ * Autores:
+ *      - Anna Yagyu     -   rm550360
+ *      - Breno Silva     -   rm99275
+ *      - Danilo Urze    -   rm99465
+ *      - Pedro Henrique  -   rm550689
+ */
+
 package br.com.fiap.twoespwx.nucleotideoGenerate;
 
 import java.io.File;
